@@ -1,7 +1,8 @@
 Django Trainee Assignment - AccuKnox
 ------------------------------------------------------------------------------------------
 Overview:
-This repository contains my solutions to the Django Trainee assessment provided by AccuKnox. The assignment covers topics such as Django Signals and Custom Python Classes.
+This repository contains my solutions to the Django Trainee assessment provided by AccuKnox.
+ The assignment covers topics such as Django Signals and Custom Python Classes.
 -----------------------------------------------------------------------------------------
 Assignment Details:
 Topic 1: Django Signals
@@ -27,7 +28,7 @@ Installation & Setup:
 To run the scripts, ensure you have Python and Django installed.
 
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/Django-Trainee-Assignment.git
+git clone https://github.com/nandhank19/Django-Trainee-Assignment.git
 cd Django-Trainee-Assignment
 
 # Create a virtual environment (optional but recommended)
@@ -38,6 +39,9 @@ source venv/bin/activate  # On Windows use: venv\Scripts\activate
 pip install django
 ------------------------------------------------------------------------------------------
 Contact
+
 For any questions, feel free to reach out:
+
 📧 Email: nandhanmass2k@gmail.com
+
 🔗 LinkedIn: linkedin.com/in/nandhank2001
